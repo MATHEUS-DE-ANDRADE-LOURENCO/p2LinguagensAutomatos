@@ -1,3 +1,8 @@
+// Alexandre Luppi Severo e Silva (10419724)
+//
+//
+//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
