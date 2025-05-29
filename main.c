@@ -1,5 +1,5 @@
-// Alexandre Luppi Severo e Silva (10419724)
-//
+// Alexandre Luppi Severo e Silva - 10419724
+// Matheus de Andrade Lourenço - 10419691
 //
 //
 
